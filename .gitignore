@@ -1,0 +1,37 @@
+# ---------------- Keil uVision 鏋勫缓浜х墿 ----------------
+CLOCK/Objects/
+CLOCK/Listings/
+CLOCK/Project Backups/
+*.obj
+*.lst
+*.m51
+*.lnp
+*.hex
+*.build_log.htm
+*.plg
+*.bak
+*.dep
+*.map
+*.uvopt
+*.uvgui.*
+*.uvgui
+
+# 渚嬪锛氫粨搴撳唴淇濈暀鐨勬垚鍝佸浐浠?!firmware/CLOCK.hex
+
+# ---------------- Proteus 杩愯鏃舵枃浠?----------------
+*.workspace
+*.workspace.*
+Project Backups/
+Last Loaded *.pdsprj
+
+# ---------------- 绯荤粺 / 缂栬緫鍣?----------------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# local publish workspace (not part of the project)
+_publish/
